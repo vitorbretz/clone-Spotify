@@ -1,3 +1,5 @@
 /*vamos reveber apenas os import*/
 @import "./vendor/reset.css";
 @import ".//pages/header.css";
+@import "./components/vars.css";
+@import "./pages/main.css";
