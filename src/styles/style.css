@@ -4,3 +4,4 @@
 @import "./components/vars.css";
 @import "./pages/main.css";
 @import "./pages/footer.css";
+@import "./media-queries/media-queries.css";
